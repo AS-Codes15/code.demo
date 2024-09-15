@@ -1,3 +1,4 @@
 # code.demo
 This is my first repository.
-Author- Archana Sharma
+<br>
+Author- Archana Sharma (student)
